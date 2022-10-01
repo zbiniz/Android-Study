@@ -1,5 +1,7 @@
-# 📕[Study Title]
-Add a study introduction
+# 📕[Android-Study]
+This is a study to learn how to build APKs using Android OS.
+
+The development language is Kotlin.
 
 # 📝Study Curriculum
 Write a study curriculum.
@@ -8,6 +10,8 @@ Write a study curriculum.
 Organize this week's homework
 
 # 📑Study Reference
-Share study reference
-
+[Kotlin](https://kotlinlang.org/)  
+----
+[jetbrains](https://www.jetbrains.com/)
+----
 
