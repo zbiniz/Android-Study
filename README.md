@@ -8,7 +8,7 @@ The development language is Kotlin.
 
 |session|Learning Goals|
 |----|----|
-|# 1 ~ 2|Installing Android Studio and Understanding the Development Environment
+|# 1 ~ 2|[Installing Android Studio and Understanding the Development Environment](/PDF/)
 |# 3 ~ 4|Understanding the hierarchy of widget classesUsing layouts
 |# 5 ~ 6|Using advanced widgets (date/time) and menus
 |# 7 ~ 8|Handling files and leveraging graphics
